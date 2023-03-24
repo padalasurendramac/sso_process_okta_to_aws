@@ -58,8 +58,29 @@ select enable api integrations and enter endpoint with / after v2 like below and
 ![image](https://user-images.githubusercontent.com/53860717/227480778-4f56cedd-eb93-4d9d-82f0-22f5c2233e91.png)
 
 
+after that click edit and select create and update deactive users options 
+![image](https://user-images.githubusercontent.com/53860717/227481261-7d78a33a-7268-4db2-aa87-4830e5d1b3fe.png)
+
+![image](https://user-images.githubusercontent.com/53860717/227481419-92c688d3-f4e9-4a05-88dc-cc72ee7c89c9.png)
+
+Sync okta to aws
+![image](https://user-images.githubusercontent.com/53860717/227481551-1395d513-7d07-4758-8c17-7244784ea1ac.png)
+
+Pushing the okta groups to aws like below by name 
+
+![image](https://user-images.githubusercontent.com/53860717/227481810-ae5ed35a-06c0-4589-9033-8cfe37449ee5.png)
 
 
+![image](https://user-images.githubusercontent.com/53860717/227482110-97a94a70-2c3b-4233-9baa-7209adf22cff.png)
+
+save
+![image](https://user-images.githubusercontent.com/53860717/227482273-a35248b3-7135-4ca1-b2eb-8e4a8cd8cfee.png)
+
+![image](https://user-images.githubusercontent.com/53860717/227482333-14df7d99-79b1-4aee-bee2-41fced1bb627.png)
+
+sync scim
+
+![image](https://user-images.githubusercontent.com/53860717/227482600-ac8ebedb-144f-4ad9-bdaa-528404ed4ba6.png)
 
 
 
