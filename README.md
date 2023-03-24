@@ -42,6 +42,24 @@ note issue and sign url
 enter okta sign and issue url and upload the okta ldp certifcate under identity provider metadata
 ![image](https://user-images.githubusercontent.com/53860717/227477508-9c8acb22-1d66-4ee2-936f-8ee8e7753e8e.png)
 
+then client next, enter acept and click change identity source
+![image](https://user-images.githubusercontent.com/53860717/227478087-ac1afd8b-b1eb-4e7a-b0b3-5e8dc2268fdc.png)
+
+after client enable automatic provissiong 
+![image](https://user-images.githubusercontent.com/53860717/227478362-211063cb-724a-4fe2-bc54-978c524218df.png)
+
+note the scim endpoint and token 
+![image](https://user-images.githubusercontent.com/53860717/227478637-55dc77df-7d2d-4511-9136-14cf0a58e3da.png)
+
+Step:-3 select provision and select configure api configuration
+![image](https://user-images.githubusercontent.com/53860717/227479388-e2e27588-c4b2-4eeb-a148-bdcca897bac7.png)
+
+select enable api integrations and enter endpoint with / after v2 like below and token then test api cred and save 
+![image](https://user-images.githubusercontent.com/53860717/227480778-4f56cedd-eb93-4d9d-82f0-22f5c2233e91.png)
+
+
+
+
 
 
 
